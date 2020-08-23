@@ -17,3 +17,5 @@ setup(
       ],
       zip_safe=False
 )
+
+from sklearn.ensemble import GradientBoostingClassifier
