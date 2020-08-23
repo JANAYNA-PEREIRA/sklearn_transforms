@@ -1,5 +1,5 @@
 from setuptools import setup
-
+from sklearn.ensemble import GradientBoostingClassifier
 
 setup(
       name='my_custom_sklearn_transforms',
